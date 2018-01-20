@@ -1,0 +1,7 @@
+﻿  BlackJack.cpp
+  코드를 생성하고 있습니다...
+c:\users\atents\desktop\key\consoleapplication3\consoleapplication3\blackjack.cpp(82): warning C4715: 'blackjack::menu': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\atents\desktop\key\consoleapplication3\consoleapplication3\blackjack.cpp(62): warning C4715: 'blackjack::checkcard': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  ConsoleApplication3.cpp
+  ConsoleApplication3.vcxproj -> C:\Users\Atents\Desktop\key\ConsoleApplication3\Debug\ConsoleApplication3.exe
